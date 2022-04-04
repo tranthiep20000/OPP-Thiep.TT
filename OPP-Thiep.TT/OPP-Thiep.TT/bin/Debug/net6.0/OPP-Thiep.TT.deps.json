@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "OPP-Thiep.TT/1.0.0": {
+        "runtime": {
+          "OPP-Thiep.TT.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "OPP-Thiep.TT/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

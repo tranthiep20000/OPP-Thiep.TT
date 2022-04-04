@@ -1,0 +1,15 @@
+C:\Users\computer\Desktop\OPP-Thiep.TT\OPP-Thiep.TT\OPP-Thiep.TT\bin\Debug\net6.0\OPP-Thiep.TT.exe
+C:\Users\computer\Desktop\OPP-Thiep.TT\OPP-Thiep.TT\OPP-Thiep.TT\bin\Debug\net6.0\OPP-Thiep.TT.deps.json
+C:\Users\computer\Desktop\OPP-Thiep.TT\OPP-Thiep.TT\OPP-Thiep.TT\bin\Debug\net6.0\OPP-Thiep.TT.runtimeconfig.json
+C:\Users\computer\Desktop\OPP-Thiep.TT\OPP-Thiep.TT\OPP-Thiep.TT\bin\Debug\net6.0\OPP-Thiep.TT.dll
+C:\Users\computer\Desktop\OPP-Thiep.TT\OPP-Thiep.TT\OPP-Thiep.TT\bin\Debug\net6.0\ref\OPP-Thiep.TT.dll
+C:\Users\computer\Desktop\OPP-Thiep.TT\OPP-Thiep.TT\OPP-Thiep.TT\bin\Debug\net6.0\OPP-Thiep.TT.pdb
+C:\Users\computer\Desktop\OPP-Thiep.TT\OPP-Thiep.TT\OPP-Thiep.TT\obj\Debug\net6.0\OPP-Thiep.TT.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\computer\Desktop\OPP-Thiep.TT\OPP-Thiep.TT\OPP-Thiep.TT\obj\Debug\net6.0\OPP-Thiep.TT.AssemblyInfoInputs.cache
+C:\Users\computer\Desktop\OPP-Thiep.TT\OPP-Thiep.TT\OPP-Thiep.TT\obj\Debug\net6.0\OPP-Thiep.TT.AssemblyInfo.cs
+C:\Users\computer\Desktop\OPP-Thiep.TT\OPP-Thiep.TT\OPP-Thiep.TT\obj\Debug\net6.0\OPP-Thiep.TT.csproj.CoreCompileInputs.cache
+C:\Users\computer\Desktop\OPP-Thiep.TT\OPP-Thiep.TT\OPP-Thiep.TT\obj\Debug\net6.0\OPP-Thiep.TT.dll
+C:\Users\computer\Desktop\OPP-Thiep.TT\OPP-Thiep.TT\OPP-Thiep.TT\obj\Debug\net6.0\ref\OPP-Thiep.TT.dll
+C:\Users\computer\Desktop\OPP-Thiep.TT\OPP-Thiep.TT\OPP-Thiep.TT\obj\Debug\net6.0\OPP-Thiep.TT.pdb
+C:\Users\computer\Desktop\OPP-Thiep.TT\OPP-Thiep.TT\OPP-Thiep.TT\obj\Debug\net6.0\OPP-Thiep.TT.genruntimeconfig.cache
+C:\Users\computer\Desktop\OPP-Thiep.TT\OPP-Thiep.TT\OPP-Thiep.TT\obj\Debug\net6.0\OPP-Thiep.TT.csproj.AssemblyReference.cache
